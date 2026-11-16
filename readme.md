@@ -1,0 +1,2 @@
+Author: Evan Berna
+Purpose: write a function that the primitivemultiply that 20% of cases multiples two numbers and in the other 80% of cases raises an exception of type multiplicatorunitfailure that writes a function that wraps the clunky function and keeps trying to until a call succeeds.
